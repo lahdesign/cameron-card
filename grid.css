@@ -5,8 +5,8 @@
     height: 254px;
     position: relative;
     /* adjust this to space out the cards */
-    margin: 30 auto;
-    overflow: hidden;
+    /* margin: 30 auto; */
+    /* overflow: hidden; */
     box-shadow: 2px 5px 15px 0px #17161694;
   }
   

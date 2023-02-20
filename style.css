@@ -54,7 +54,8 @@ svg{
   position: relative;
   /* adjust this to space out the cards */
   margin: 50 auto;
-  /* overflow: hidden; */
+  overflow: hidden;
+  padding: 4rem 2rem;
 }
 
 .back-side{
@@ -62,8 +63,8 @@ svg{
   height: 254px;
   position: relative;
   /* adjust this to space out the cards */
-  margin: 50 auto;
-  /* overflow: hidden; */
+  /* margin: 50 auto; */
+  overflow: hidden;
 }
 
 h3{
